@@ -1,4 +1,4 @@
-# Weather-Api
+# Weather-App
 
 An application designed to fetch weather from the website
 OpenWeatherMap which display weather of any location 
