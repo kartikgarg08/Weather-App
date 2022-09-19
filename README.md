@@ -1,7 +1,9 @@
 # Weather-App
 
-An application designed to fetch weather from the website
-OpenWeatherMap which display weather of any location 
-around the world. 
+*Goal* - Created a weather application that fetches weather from any location and displays it at any time.
 
-https://competent-allen-224a06.netlify.app/
+*Technologies used* - HTML, CSS, JavaScript, OpenWeatherMap API.
+
+*Result* - The user saved time by getting weather information from anywhere in the world.
+
+*Deployed* - https://weather-app-web-2021.netlify.app/
